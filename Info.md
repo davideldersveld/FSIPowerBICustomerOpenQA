@@ -12,3 +12,7 @@ Although we can't cover the scope of "how to" during this time, we can discuss h
 - December 22, 2022 - Available
 - _December 29, 2022 - UNAVAILABLE_
 - January, 5, 2023 - Available
+- January, 12, 2023 - Available
+- January, 19, 2023 - Available
+- _January 26, 2023 - UNAVAILABLE_
+- February 2, 2023 - Available
